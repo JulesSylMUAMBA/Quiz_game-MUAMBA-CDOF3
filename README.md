@@ -1,33 +1,95 @@
-# Quiz_game-MUAMBA-CDOF3
-## Description 
-This project is based on developp a little Quizz Game.
+# Quiz Game - General Knowledge
 
-## General ideas
-What i **want** to do here, maybe, a primal frontend question askin for kind of quizz the user want based on certain choises.
-Like a "case(), break" thing and after he can choose how many question he want and maybe the difficulty.
+A general knowledge quiz game playable in the terminal. The user can choose their difficulty level (easy, medium, hard) and answer 10 random questions. At the end, a score is displayed along with an encouragement message tailored to the performance.
 
-In the backend, i can try with a json file, containing some questions taken on Kaggle or something, filtered by type of question and level of difficulty.
-And with that a table to save score.
+## Getting Started
 
-I also want to search more about use a AI for generate questions.
-With this solution, wo don't use to think about if questions are generated randomly.
-But there's such problem about secret key for ChatGPT.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-I will also explore how to run Llama in local to handle this problem.
-Source : https://www.datacamp.com/tutorial/run-llama-3-locally
+### Prerequisites
 
+You will need the following:
 
-I can also try Render, a platforme for backend in python or something.
+- Python 3.10 or later
+- Standard Python libraries (to be confirmed during installation)
 
+### Installing
 
-## Plan for sprints 
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/JulesSylMUAMBA/Quiz_game-MUAMBA-CDOF3.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Quiz_game-MUAMBA-CDOF3
+   ```
+3. Install dependencies if required:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Finish the general architecture 
-About the type of quizz i want and the techologies. 
+### Example Execution
 
-### Begin the code 
-Create the general base of the project, the json file, or other; find the database on kaggle, etc.
+1. Run the game:
+   ```bash
+   python main.py
+   ```
+2. Follow the displayed instructions to select your difficulty level and answer the questions.
 
+## Running the Tests
 
-### Code first steps of the code
-Begin implemanting firts functionnalities.
+### End-to-End Tests
+
+These tests verify the overall functionality of the game.
+
+1. Ensure the JSON question file is properly formatted.
+2. Run the test script:
+   ```bash
+   python tests/test_end_to_end.py
+   ```
+
+### Code Style Tests
+
+These tests ensure the code adheres to Python style standards (PEP8).
+
+1. Use the `flake8` tool:
+   ```bash
+   flake8 .
+   ```
+
+## Deployment
+
+This project is designed for local use in a terminal. No online production dependencies are required.
+
+## Built With
+
+- **Python** - Main language for development
+- **JSON** - Format for storing questions and messages
+
+## Contributing
+
+Please read the `CONTRIBUTING.md` file for details on our code of conduct and the process for submitting pull requests.
+
+## Versioning
+
+We use [SemVer](https://semver.org/) for versioning. See the tags on this repository for available versions.
+
+## Authors
+
+- **Jules Sylvain MUAMBA** - Initial work
+
+See also the list of contributors who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Acknowledgments
+
+- Thanks to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for the README template
+- Inspiration:
+  - [MAT34525](https://github.com/MAT34525)
+  - Nandy Bâ (Developer at Aave, Mentor ETH Global)
+  - Baptiste Florentin (DeFi Engineer, Entrepreneur)
+  - AIT LAHCEN Souhail
+
