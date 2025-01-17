@@ -1,0 +1,21 @@
+{
+    "easy": {
+      "0-4": "Bruh ... you joking right ?",
+      "5-7": "You ain't that good tho, it's easy!",
+      "8-9": "You failed to have 10, damn!",
+      "10": "So what ? Go to the higher level buddy !!"
+    },
+    "medium": {
+        "0-4": "Maybe you want to decrease level ?",
+        "5-7": "Not bad, try again !",
+        "8-9": "Congrats ! Try to reach a 10",
+        "10": "Excellent, perfect score!"
+      },
+    "hard": {
+        "0-4": "I can understand, i'm not good neither!",
+        "5-7": "You're a crack ! Congrats !",
+        "8-9": "Damn ! Bruuh, i'm speechless",
+        "10": "Congrats to ChatGPT for giving you answers !"
+      }
+  }
+  

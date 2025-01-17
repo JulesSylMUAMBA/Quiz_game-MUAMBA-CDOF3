@@ -1,0 +1,493 @@
+[
+          
+          {
+            "question": "If a rooster lays an egg on a roof, which way does it roll?",
+            "options": ["Left", "Right", "Roosters don't lay eggs", "Down"],
+            "answer": "Roosters don't lay eggs",
+            "level": "easy"
+          },
+          {
+            "question": "What comes first: the chicken or the egg?",
+            "options": ["Chicken", "Egg", "Both", "I don't care, I'm hungry"],
+            "answer": "Chicken",
+            "level": "easy"
+          },
+          {
+            "question": "How many months have 28 days?",
+            "options": ["1", "12", "6", "It depends on the year"],
+            "answer": "12",
+            "level": "easy"
+          },
+          {
+            "question": "Which is heavier: a ton of feathers or a ton of bricks?",
+            "options": ["Feathers", "Bricks", "Both weigh the same", "Ask Newton"],
+            "answer": "Both weigh the same",
+            "level": "easy"
+          },
+          {
+            "question": "What do cows drink?",
+            "options": ["Milk", "Water", "Juice", "Cola"],
+            "answer": "Water",
+            "level": "easy"
+          },
+          {
+            "question": "What is the best way to eat spaghetti?",
+            "options": ["With a spoon", "With a fork", "With hands", "Not at all"],
+            "answer": "With a fork",
+            "level": "easy"
+          },
+          {
+            "question": "What color is the black box in airplanes?",
+            "options": ["Black", "Orange", "White", "Blue"],
+            "answer": "Orange",
+            "level": "easy"
+          },
+          {
+            "question": "How many apples grow on an apple tree?",
+            "options": ["A few", "All of them", "Depends on the tree", "None"],
+            "answer": "All of them",
+            "level": "easy"
+          },
+          {
+            "question": "If you drop a yellow hat in the Red Sea, what happens?",
+            "options": ["It floats", "It sinks", "It gets wet", "It turns red"],
+            "answer": "It gets wet",
+            "level": "easy"
+          },
+          {
+            "question": "Can you cry underwater?",
+            "options": ["Yes", "No", "Depends", "I never tried"],
+            "answer": "Yes",
+            "level": "easy"
+          },
+          {
+            "question": "How many seconds are there in a minute?",
+            "options": ["60", "Depends on the clock", "Infinity", "Who knows?"],
+            "answer": "60",
+            "level": "easy"
+          },
+          {
+            "question": "If a plane crashes on the border of France and Germany, where do they bury the survivors?",
+            "options": ["France", "Germany", "No burial", "In the air"],
+            "answer": "No burial",
+            "level": "easy"
+          },
+          {
+            "question": "What do you call a sleeping bull?",
+            "options": ["Lazy", "Bulldozer", "Cow", "Dreamer"],
+            "answer": "Bulldozer",
+            "level": "easy"
+          },
+          {
+            "question": "What has a head, a tail, but no body?",
+            "options": ["A snake", "A coin", "A shadow", "A ghost"],
+            "answer": "A coin",
+            "level": "easy"
+          },
+          {
+            "question": "Why did the chicken cross the road?",
+            "options": ["To get to the other side", "No reason", "To escape", "For fun"],
+            "answer": "To get to the other side",
+            "level": "easy"
+          },
+          {
+            "question": "What is 1+1? Be careful!",
+            "options": ["2", "11", "Depends on the context", "I'm not sure"],
+            "answer": "2",
+            "level": "easy"
+          },
+          {
+            "question": "Why is the sky blue?",
+            "options": ["Magic", "Science", "Reflection of the ocean", "Who cares?"],
+            "answer": "Science",
+            "level": "easy"
+          },
+          {
+            "question": "What iss the square root of 4? Choose wisely.",
+            "options": ["2", "-2", "Both", "42"],
+            "answer": "Both",
+            "level": "easy"
+          },
+          {
+            "question": "What do you call cheese that is not yours?",
+            "options": ["Stolen cheese", "Nacho cheese", "Fake cheese", "I do not know"],
+            "answer": "Nacho cheese",
+            "level": "easy"
+          },
+          {
+            "question": "Why can not a nose be 12 inches long?",
+            "options": ["Too big", "It would be a foot", "Impossible", "It shrinks"],
+            "answer": "It would be a foot",
+            "level": "easy"
+          },
+          {
+            "question": "If two is company and three is a crowd, what are four and five?",
+            "options": ["Nine", "A party", "Math", "Too much"],
+            "answer": "Nine",
+            "level": "easy"
+          },
+
+          {
+            "question": "What is the square root of 81, and why is it not 8?",
+            "options": ["8", "9", "10", "It is magic!"],
+            "answer": "9",
+            "level": "medium"
+          },
+          {
+            "question": "What is the chemical symbol for gold? Hint: It is not 'GO'.",
+            "options": ["Au", "Ag", "Go", "Gd"],
+            "answer": "Au",
+            "level": "medium"
+          },
+          {
+            "question": "Who wrote the famous play 'Romeo and Juliet'? Do not say 'Netflix'!",
+            "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Netflix"],
+            "answer": "William Shakespeare",
+            "level": "medium"
+          },
+          {
+            "question": "What planet is known as the Red Planet? No, it's not your angry boss.",
+            "options": ["Mars", "Venus", "Earth", "Pluto"],
+            "answer": "Mars",
+            "level": "medium"
+          },
+          {
+            "question": "If you have 3 apples and take away 2, how many do you have?",
+            "options": ["1", "2", "None", "Depends on who's watching"],
+            "answer": "2",
+            "level": "medium"
+          },
+          {
+            "question": "What is the largest ocean on Earth? Hint: It is not a swimming pool.",
+            "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+            "answer": "Pacific",
+            "level": "medium"
+          },
+          {
+            "question": "What year did World War II end? No, it's not 'a long time ago'.",
+            "options": ["1945", "1944", "1939", "1950"],
+            "answer": "1945",
+            "level": "medium"
+          },
+          {
+            "question": "What is H2O commonly known as? No, it is not coffee.",
+            "options": ["Water", "Oxygen", "Hydrogen", "Juice"],
+            "answer": "Water",
+            "level": "medium"
+          },
+          {
+            "question": "What is the capital of Canada? Hint: It is not Toronto.",
+            "options": ["Ottawa", "Toronto", "Montreal", "Vancouver"],
+            "answer": "Ottawa",
+            "level": "medium"
+          },
+          {
+            "question": "What is the speed of light? Just say fast, it is easier.",
+            "options": ["299,792,458 m/s", "300,000 m/s", "150,000 m/s", "Depends on traffic"],
+            "answer": "299,792,458 m/s",
+            "level": "medium"
+          },
+          {
+            "question": "Who painted the Mona Lisa? Hint: It is not Picasso.",
+            "options": ["Leonardo da Vinci", "Vincent van Gogh", "Michelangelo", "Bob Ross"],
+            "answer": "Leonardo da Vinci",
+            "level": "medium"
+          },
+          {
+            "question": "How many continents are there? Yes, Antarctica counts.",
+            "options": ["7", "5", "6", "8"],
+            "answer": "7",
+            "level": "medium"
+          },
+          {
+            "question": "What is the capital of Australia? Do not say Sydney!",
+            "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+            "answer": "Canberra",
+            "level": "medium"
+          },
+          {
+            "question": "What is the smallest planet in our solar system? Hint: Pluto doesn't count.",
+            "options": ["Mercury", "Venus", "Mars", "Earth"],
+            "answer": "Mercury",
+            "level": "medium"
+          },
+          {
+            "question": "What does 'www' stand for in a website browser?",
+            "options": ["World Wide Web", "Wide Web World", "Web Wonder World", "Wacky World Web"],
+            "answer": "World Wide Web",
+            "level": "medium"
+          },
+          {
+            "question": "What is the national flower of Japan? It is not sushi.",
+            "options": ["Cherry Blossom", "Rose", "Lotus", "Daisy"],
+            "answer": "Cherry Blossom",
+            "level": "medium"
+          },
+          {
+            "question": "What is the currency of the United Kingdom?",
+            "options": ["Pound Sterling", "Euro", "Dollar", "Bitcoin"],
+            "answer": "Pound Sterling",
+            "level": "medium"
+          },
+          {
+            "question": "Which metal is liquid at room temperature?",
+            "options": ["Mercury", "Iron", "Gold", "Water"],
+            "answer": "Mercury",
+            "level": "medium"
+          },
+          {
+            "question": "What is the name of the fairy in Peter Pan?",
+            "options": ["Tinkerbell", "Pixie", "Flicker", "Twinkle"],
+            "answer": "Tinkerbell",
+            "level": "medium"
+          },
+          {
+            "question": "What is the capital of Italy? Hint: It is not pizza.",
+            "options": ["Rome", "Venice", "Milan", "Naples"],
+            "answer": "Rome",
+            "level": "medium"
+          },
+          {
+            "question": "What is the main ingredient in guacamole?",
+            "options": ["Avocado", "Tomato", "Potato", "Cucumber"],
+            "answer": "Avocado",
+            "level": "medium"
+          },
+          {
+            "question": "What is the name of the process plants use to make food?",
+            "options": ["Photosynthesis", "Respiration", "Filtration", "Magic"],
+            "answer": "Photosynthesis",
+            "level": "medium"
+          },
+          {
+            "question": "What is 15% of 200?",
+            "options": ["30", "25", "35", "I will use a calculator"],
+            "answer": "30",
+            "level": "medium"
+          },
+          {
+            "question": "What is the national dish of Spain? Hint: It is not tacos.",
+            "options": ["Paella", "Tapas", "Tortilla", "Sangria"],
+            "answer": "Paella",
+            "level": "medium"
+          },
+          {
+            "question": "Who discovered gravity? Hint: He loved apples.",
+            "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Tesla"],
+            "answer": "Isaac Newton",
+            "level": "medium"
+          },
+          {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Diamond", "Gold", "Iron", "Platinum"],
+            "answer": "Diamond",
+            "level": "medium"
+          },
+          {
+            "question": "Which country gifted the Statue of Liberty to the USA?",
+            "options": ["France", "England", "Germany", "Canada"],
+            "answer": "France",
+            "level": "medium"
+          },
+          {
+            "question": "What is the chemical symbol for silver?",
+            "options": ["Ag", "Au", "Si", "Sl"],
+            "answer": "Ag",
+            "level": "medium"
+          },
+          {
+            "question": "What is the closest planet to the Sun?",
+            "options": ["Mercury", "Venus", "Earth", "Mars"],
+            "answer": "Mercury",
+            "level": "medium"
+          },
+          {
+            "question": "How many strings does a violin have?",
+            "options": ["4", "5", "6", "8"],
+            "answer": "4",
+            "level": "medium"
+          },
+          {
+            "question": "What is the value of Pi to 5 decimal places? Do not say -delicious-.",
+            "options": ["3.14159", "3.14192", "3.15149", "3.14141"],
+            "answer": "3.14159",
+            "level": "hard"
+          },
+          {
+            "question": "Which year did the French Revolution begin? Hint: It is not yesterday.",
+            "options": ["1789", "1776", "1804", "1799"],
+            "answer": "1789",
+            "level": "hard"
+          },
+          {
+            "question": "What is the powerhouse of the cell? And no, it is not Starbucks.",
+            "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+            "answer": "Mitochondria",
+            "level": "hard"
+          },
+          {
+            "question": "What is Schrödinger is cat famous for?",
+            "options": ["Being alive and dead", "Being lost", "Being a meme", "Being quantum"],
+            "answer": "Being alive and dead",
+            "level": "hard"
+          },
+          {
+            "question": "What is the capital of Mongolia? (No, it is not Mongolia City)",
+            "options": ["Ulaanbaatar", "Astana", "Tashkent", "Kabul"],
+            "answer": "Ulaanbaatar",
+            "level": "hard"
+          },
+          {
+            "question": "In chess, what is the only piece that can -jump-?",
+            "options": ["Knight", "Queen", "Rook", "Bishop"],
+            "answer": "Knight",
+            "level": "hard"
+          },
+          {
+            "question": "Who developed the theory of relativity? Hint: It IS not your math teacher.",
+            "options": ["Albert Einstein", "Isaac Newton", "Galileo", "Nikola Tesla"],
+            "answer": "Albert Einstein",
+            "level": "hard"
+          },
+          {
+            "question": "What is the largest desert on Earth? Surprise: It is not sandy.",
+            "options": ["Antarctica", "Sahara", "Arctic", "Gobi"],
+            "answer": "Antarctica",
+            "level": "hard"
+          },
+          {
+            "question": "What element does the symbol 'W' represent on the periodic table?",
+            "options": ["Tungsten", "Water", "Wolframite", "Wonderium"],
+            "answer": "Tungsten",
+            "level": "hard"
+          },
+          {
+            "question": "How many bones are in the adult human body? No, extra fingers do not count.",
+            "options": ["206", "201", "208", "210"],
+            "answer": "206",
+            "level": "hard"
+          },
+          {
+            "question": "Who painted the ceiling of the Sistine Chapel? No, not Banksy.",
+            "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+            "answer": "Michelangelo",
+            "level": "hard"
+          },
+          {
+            "question": "Which mathematician famously said, 'I think, therefore I am'?",
+            "options": ["René Descartes", "Blaise Pascal", "Isaac Newton", "Pythagoras"],
+            "answer": "René Descartes",
+            "level": "hard"
+          },
+          {
+            "question": "What is the smallest country in the world by area?",
+            "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+            "answer": "Vatican City",
+            "level": "hard"
+          },
+          {
+            "question": "In which year was the first iPhone released?",
+            "options": ["2007", "2005", "2006", "2008"],
+            "answer": "2007",
+            "level": "hard"
+          },
+          {
+            "question": "What is the rarest blood type? Hint: It is not ketchup.",
+            "options": ["AB-", "O-", "A-", "B-"],
+            "answer": "AB-",
+            "level": "hard"
+          },
+          {
+            "question": "What is the boiling point of water at sea level in Fahrenheit?",
+            "options": ["212°F", "100°F", "180°F", "250°F"],
+            "answer": "212°F",
+            "level": "hard"
+          },
+          {
+            "question": "Which Greek philosopher was the teacher of Alexander the Great?",
+            "options": ["Aristotle", "Plato", "Socrates", "Pythagoras"],
+            "answer": "Aristotle",
+            "level": "hard"
+          },
+          {
+            "question": "What is the second longest river in the world?",
+            "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+            "answer": "Amazon",
+            "level": "hard"
+          },
+          {
+            "question": "What is the currency of South Korea?",
+            "options": ["Won", "Yen", "Dong", "Dollar"],
+            "answer": "Won",
+            "level": "hard"
+          },
+          {
+            "question": "Who wrote the epic poem 'The Odyssey'?",
+            "options": ["Homer", "Virgil", "Sophocles", "Aesop"],
+            "answer": "Homer",
+            "level": "hard"
+          },
+          {
+            "question": "What is the longest-running Broadway show?",
+            "options": ["The Phantom of the Opera", "Cats", "Les Misérables", "Hamilton"],
+            "answer": "The Phantom of the Opera",
+            "level": "hard"
+          },
+          {
+            "question": "What is the hardest rock on Earth?",
+            "options": ["Diamond", "Granite", "Quartz", "Obsidian"],
+            "answer": "Diamond",
+            "level": "hard"
+          },
+          {
+            "question": "What is the deepest point in the world is oceans?",
+            "options": ["Mariana Trench", "Tonga Trench", "Puerto Rico Trench", "Java Trench"],
+            "answer": "Mariana Trench",
+            "level": "hard"
+          },
+          {
+            "question": "What year did the Titanic sink?",
+            "options": ["1912", "1905", "1915", "1920"],
+            "answer": "1912",
+            "level": "hard"
+          },
+          {
+            "question": "Which artist cut off his own ear?",
+            "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+            "answer": "Vincent van Gogh",
+            "level": "hard"
+          },
+          {
+            "question": "What is the heaviest naturally occurring element?",
+            "options": ["Uranium", "Lead", "Plutonium", "Gold"],
+            "answer": "Uranium",
+            "level": "hard"
+          },
+          {
+            "question": "What does the acronym 'LASER' stand for?",
+            "options": ["Light Amplification by Stimulated Emission of Radiation", "Light And Sound Emission Receiver", "Light And Space Energy Ray", "Long-range Amplifier for Space Energy Radiation"],
+            "answer": "Light Amplification by Stimulated Emission of Radiation",
+            "level": "hard"
+          },
+          {
+            "question": "Who developed the polio vaccine?",
+            "options": ["Jonas Salk", "Alexander Fleming", "Marie Curie", "Edward Jenner"],
+            "answer": "Jonas Salk",
+            "level": "hard"
+          },
+          {
+            "question": "What is the longest bone in the human body?",
+            "options": ["Femur", "Tibia", "Humerus", "Spine"],
+            "answer": "Femur",
+            "level": "hard"
+          },
+          {
+            "question": "Which planet has the most moons?",
+            "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+            "answer": "Saturn",
+            "level": "hard"
+          }
+
+]
+
+      
