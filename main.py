@@ -55,8 +55,8 @@ def quiz_game():
     score = 0  # Initialize score
 
     # Start the quiz
-    for question in selected_questions:
-        print(f"\nQ: {question['question']}")
+    for i, question in enumerate(selected_questions):
+        print(f"\nQ{i+1}/{len(selected_questions)}: {question['question']}")
         for i, option in enumerate(question['options'], start=1):
             print(f"{i}. {option}")
 
@@ -66,7 +66,7 @@ def quiz_game():
                 print("Correct!\n")
                 score += 1
             else:
-                print(f"Wrong!\n")
+                print(f"Wrong, the correct answer was : {question['answer']}")
         except (ValueError, IndexError):
             print("Invalid choice. Moving to the next question.\n")
 
