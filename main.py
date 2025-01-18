@@ -18,7 +18,7 @@ def select_questions(questions, level, num_questions=10):
     level_questions = [q for q in questions if q['level'] == level]
     return random.sample(level_questions, min(num_questions, len(level_questions)))
 
-def get_encouragement_message(messages, level +1, score):
+def get_encouragement_message(messages, level, score):
     """Get the encouragement message based on the level and score."""
     for score_range, message in messages[level].items():
         start, end = map(int, score_range.split('-'))
