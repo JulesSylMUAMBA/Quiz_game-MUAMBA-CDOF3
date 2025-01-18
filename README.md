@@ -27,6 +27,10 @@ You will need the following:
    ```bash
    pip install -r requirements.txt
    ```
+   An other option to build the project :
+   ```bash
+   pip install .
+   ```
 
 ### Example Execution
 
